@@ -1,16 +1,43 @@
-## Hi there 👋
+# 👋 Hi, I'm Anthony Bassaw
 
-<!--
-**Beaworks2021/Beaworks2021** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **Full Stack Web Developer** | 🎯 Passionate about building scalable web and mobile apps  
+🔍 Currently exploring advanced backend systems and modern frontend frameworks
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧰 Tech Stack
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="React" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/reactnative/reactnative-original.svg" height="30" alt="React Native" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="30" alt="Next.js" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="Python" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="MongoDB" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="Git" />
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+![Anthony's GitHub Stats](https://github-readme-stats.vercel.app/api?username=anthonybassaw&show_icons=true&theme=tokyonight&hide=prs)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anthonybassaw&layout=compact&theme=tokyonight)
+
+---
+
+## 🌐 Let's Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Anthony%20Bassaw-blue?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/anthony-bassaw-92ab7512a/)  
+📫 Email: beaworks@gmail.com 
+
+---
+
+## 🎯 Current Goals
+
+- Improve backend infrastructure skills  
+- Build polished mobile apps using React Native  
+- Contribute to open-source projects
+
+---
+
